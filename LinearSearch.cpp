@@ -10,7 +10,7 @@ using namespace std;
   			return 1;
 		  }
 	  }
-	  return 03;
+	  return 0;
   }
 
 int main()
